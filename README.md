@@ -1,3 +1,5 @@
+# Student-Attendance-System-using-OpenCV
+
 Note :
 1. Install OpenCV and Tkinter in anaconda 
 2. Run attendance.py file
