@@ -1,9 +1,9 @@
 # Student-Attendance-System-using-OpenCV
 
 Note :
-1. Install OpenCV and Tkinter in anaconda 
-2. Run attendance.py file
-3. Make a file named Training image 
+1. Install OpenCV and Tkinter in Anaconda 
+2. Make a file named Training image
+3. Run attendance.py file 
 
 
 To install tkinter package with anaconda run :
